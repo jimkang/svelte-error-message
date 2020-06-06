@@ -1,1 +1,1 @@
-export { default as default } from './SearchSpotify.svelte';
+export { default } from "./ErrorMessage.svelte";
