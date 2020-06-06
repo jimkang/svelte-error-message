@@ -3,7 +3,7 @@
   "svelte": "src/index.js",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Super basic error message displaying component that I created mostly to avoid having to copy everywhere.",
   "scripts": {
     "build": "rollup -c"
@@ -21,6 +21,5 @@
     "src",
     "dist"
   ],
-  "dependencies": {
-  }
+  "dependencies": {}
 }
